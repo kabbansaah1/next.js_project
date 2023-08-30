@@ -38,7 +38,7 @@ const getLocation = (location) =>
             <Link href="/locations/[id]" as={`/locations/${location.id}`}>
                 <a className="btn btn-secondary">
                 
-                  Learn More. 1
+                  Learn More. 1, 2
                 
                 </a>
             </Link>
