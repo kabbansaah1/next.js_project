@@ -37,7 +37,9 @@ const getLocation = (location) =>
             </p>
             <Link href="/locations/[id]" as={`/locations/${location.id}`}>
                 <a className="btn btn-secondary">
-                    Learn more!
+                
+                  Learn More. 1
+                
                 </a>
             </Link>
         </div>
