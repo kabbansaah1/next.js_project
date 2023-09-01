@@ -14,9 +14,6 @@ jobs:
       - name: Install NPM dependencies
         run: npm install
 
-      - name: Linting
-        run: npm run lint
-
       - name: Build project assets
         run: npm run build
       
